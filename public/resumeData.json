@@ -1,19 +1,19 @@
 {
   "main": {
-    "name":"Nordic-Giant Project",
-    "description":"I am a web development engineer and I use react and python to develop pages. This project is a resume template that can be used as the project home page or resume page",
-    "image":"profilepic.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+    "name":"Philip Salvacion",
+    "description":"I am a web developer and I use ReactJs with Material UI or Bootstrap 4 to develop pages for front-end, PHP for server-side scripting and MySQL for database management",
+    "image":"MyPic.jpg",
+    "bio":"Hi, my name is Philip! I'm a web developer with a special focus in ReactJS, Bootstrap 4, Javascript, PHP and MySQL. Along with my 3 years  freelance experience, I recently graduated with my Bachelor's degree in Information Technology from Cavite State University.",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "youremailhere@gmail.com",
-    "phone": "555-555-5555",
+    "email": "philipsalvacion65@gmail.com",
+    "phone": "0915-713-7745",
     "github":"https://github.com/nordicgiant2/react-nice-resume",
     "project":"https://github.com/nordicgiant2/react-nice-resume",
     "address":{
-      "street":"(Your Street)",
-      "city":"(Your City)",
-      "state":"(Your State)",
-      "zip": "(Your Zip/Postal Code)"
+      "street":"Molino 4",
+      "city":"Bacoor",
+      "state":"Cavite",
+      "zip": "4102"
     },
     "website": "http://www.timbakerdev.com",
     "resumedownload":"http://timbakerdev.com",
@@ -49,16 +49,16 @@
     "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
     "education":[
       {
-        "school":"University?",
-        "degree":"Masters in Beer tasting",
-        "graduated":"April 2007",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"Cavite State University-Imus",
+        "degree":"Bachelor's degree in Information Technology",
+        "graduated":"June 2020",
+        "description":"This degree is a study in the field of software development, software testing, software engineering, web design, databases, programming, computer networking and computer systems."
       },
       {
-        "school":"School #1 Maybe College?",
-        "degree":"What did you study 101",
-        "graduated":"March 2003",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"Don Bosco-Alabang",
+        "degree":"Computer Hardware Servicing (National Certication Level 2 Passer)",
+        "graduated":"April 2016",
+        "description":"This course develops students' skills in diagnosis and troubleshooting of computer systems, as well as in the performance of computer operations. While taking this course, I got 3 academic excellence award, and 1 gold medal for conduct excellence."
       }
     ],
     "work":[
