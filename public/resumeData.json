@@ -1,10 +1,10 @@
 {
   "main": {
     "name":"Philip Salvacion",
-    "description":"I am a web developer and I use ReactJs with Material UI or Bootstrap 4 to develop pages for front-end, PHP for server-side scripting and MySQL for database management",
+    "description":"I am a web developer and I use ReactJs with Material UI or Bootstrap 4 to develop front-end pages, PHP for server-side scripting, and MySQL for database management",
     "image":"MyPic.jpg",
-    "bio":"Hi, my name is Philip! I'm a web developer with a special focus in ReactJS, Bootstrap 4, Javascript, PHP and MySQL. Along with my 3 years  freelance experience, I recently graduated with my Bachelor's degree in Information Technology from Cavite State University.",
-    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "bio":"Hi, my name is Philip! I'm a web developer with a special focus in ReactJS, Bootstrap 4, Javascript, PHP, and MySQL. Along with my 2 years of freelance experience, I recently graduated with my Bachelor's degree in Information Technology from Cavite State University.",
+    "contactmessage":"For project offers or inquiries kindly contact me at my email or phone number.",
     "email": "philipsalvacion65@gmail.com",
     "phone": "0915-713-7745",
     "github":"https://github.com/nordicgiant2/react-nice-resume",
@@ -16,31 +16,21 @@
       "zip": "4102"
     },
     "website": "http://www.timbakerdev.com",
-    "resumedownload":"http://timbakerdev.com",
+    "resumedownload":"https://drive.google.com/file/d/1IaFKJunIPQHTejK_Y53dNxAPCipUYpC7/view?usp=sharing",
     "social":[
       {
         "name":"facebook",
-        "url":"https://github.com/nordicgiant2/react-nice-resume",
+        "url":"https://m.me/uvweuvwe",
         "className":"fa fa-facebook"
       },
       {
-        "name":"twitter",
-        "url":"http://twitter.com",
-        "className":"fa fa-twitter"
-      },
-      {
-        "name":"linkedin",
-        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
-        "className":"fa fa-linkedin"
-      },
-      {
         "name":"instagram",
-        "url":"http://instagram.com/tbaker_x",
+        "url":"http://instagram.com/eyyphil",
         "className":"fa fa-instagram"
       },
       {
         "name":"github",
-        "url":"https://github.com/nordicgiant2/react-nice-resume",
+        "url":"https://github.com/philipsalvacion",
         "className":"fa fa-github"
       }
     ]
@@ -66,7 +56,7 @@
         "company":"Freelance Web Developer",
         "title":"Web Developer",
         "years":"2018 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "description":"Design, develop and implement small scale level web application. Conduct software and systems monitoring, testing and quality assurance."
       },
       {
         "company":"CommSoft RMS",
@@ -98,7 +88,7 @@
       },
       {
         "name":"Angular 7",
-        "level":"50%"
+        "level":"45%"
       },
       {
         "name":"Laravel",
@@ -121,30 +111,6 @@
         "category":"My Travel Blog for my post-university travels",
         "image":"canadian-wanderlust.jpg",
         "url":"https://www.canadianwanderlust.com"
-      },
-      {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"fury-fighting-gear.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"original-thai-food.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"resume-website.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"smirkspace.jpg",
-        "url":"http://www.smirkspace.com"
       }
     ]
   }
