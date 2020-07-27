@@ -96,17 +96,17 @@ class Contact extends Component {
 				<ul id="twitter">
 					<li>
 						<span>
+							Coffee shop sample designed has been added, Check it out!
+						</span>
+						<b><a href=".">July 27, 2020</a></b>
+					</li>
+					<li>
+						<span>
 							This website is still under development, work portfolio and testimonials will be added soon!
 							<br></br>
 								<i style={redText}>*Email feature still under development, kindly contact me throught my email or phone number</i>
 							</span>
 							<b><a href=".">July 22, 2020</a></b>
-						</li>
-						<li>
-							<span>
-								Web resume has been published!
-							</span>
-							<b><a href=".">July 20, 2020</a></b>
 						</li>
 					</ul>
 				</div>

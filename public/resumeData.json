@@ -15,7 +15,7 @@
       "state":"Cavite",
       "zip": "4102"
     },
-    "website": "http://www.timbakerdev.com",
+    "website": "philipsalvacion.codes",
     "resumedownload":"https://drive.google.com/file/d/1IaFKJunIPQHTejK_Y53dNxAPCipUYpC7/view?usp=sharing",
     "social":[
       {
@@ -111,10 +111,10 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"canadian-wanderlust.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "title":"Coffee Shop",
+        "category":"Sample design - Coffee shop theme! *Under development*",
+        "image":"Coffee-shop.png",
+        "url":"https://goofy-thompson-988f22.netlify.app/"
       }
     ]
   }
