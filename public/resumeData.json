@@ -36,7 +36,7 @@
     ]
   },
   "resume":{
-    "skillmessage":"Library, Frameworks and Scripting language that I'm familiar and used before for web development:",
+    "skillmessage":"Library, Frameworks and Scripting language that I'm familiar and used before for software and web development:",
     "education":[
       {
         "school":"Cavite State University-Imus",
@@ -105,6 +105,26 @@
 			{
 				"name":"Python",
 				"level":"40%"
+			},
+			{
+				"name":"Java",
+				"level":"60%"
+			},
+			{
+				"name":"C#.Net",
+				"level":"70%"
+			},
+			{
+				"name":"C++",
+				"level":"60%"
+			},
+			{
+				"name":"Visual Basic.Net",
+				"level":"80%"
+			},
+			{
+				"name":"Python",
+				"level":"40%"
 			}
     ]
   },
@@ -112,7 +132,7 @@
     "projects": [
       {
         "title":"Coffee Shop",
-        "category":"Sample design - Coffee shop theme! *Under development*",
+        "category":"Sample design - Coffee shop theme!",
         "image":"Coffee-shop.png",
         "url":"https://goofy-thompson-988f22.netlify.app/"
       }
