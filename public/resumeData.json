@@ -16,7 +16,7 @@
       "zip": "4102"
     },
     "website": "philipsalvacion.codes",
-    "resumedownload":"https://drive.google.com/file/d/1IaFKJunIPQHTejK_Y53dNxAPCipUYpC7/view?usp=sharing",
+    "resumedownload":"https://drive.google.com/file/d/1w7Si0JG3u3SPPtmU7ARShjY8Sz8JtqfU/view?usp=sharing",
     "social":[
       {
         "name":"facebook",
@@ -53,10 +53,10 @@
     ],
     "work":[
       {
-        "company":"Freelance Web Developer",
-        "title":"Web Developer",
-        "years":"2018 - Present",
-        "description":"Design, develop and implement small scale level web application. Conduct software and systems monitoring, testing and quality assurance."
+        "company":"LEENTech Network Solutions",
+        "title":"Junior Software Engineer",
+        "years":"Aug 2020 - Present",
+        "description":"Design, develop and implement small scale web application using Angular 10 and Magento. Conduct software and systems monitoring, testing and quality assurance."
       },
       {
         "company":"CommSoft RMS",
@@ -88,11 +88,11 @@
       },
       {
         "name":"Angular 7",
-        "level":"45%"
+        "level":"65%"
       },
       {
         "name":"Laravel",
-        "level":"40%"
+        "level":"60%"
       },
 			{
 				"name":"MySQL",
@@ -123,7 +123,7 @@
 				"level":"60%"
 			},
 			{
-				"name":"Python",
+				"name":"Magento",
 				"level":"40%"
 			}
     ]
