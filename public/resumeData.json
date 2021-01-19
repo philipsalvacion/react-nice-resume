@@ -29,6 +29,11 @@
         "className":"fa fa-instagram"
       },
       {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/john-philip-salvacion-b738931b1",
+        "className":"fa fa-linkedin"
+      },
+      {
         "name":"github",
         "url":"https://github.com/philipsalvacion",
         "className":"fa fa-github"
@@ -123,6 +128,10 @@
 				"level":"60%"
 			},
 			{
+				"name":"WordPress",
+				"level":"70%"
+			},
+			{
 				"name":"Magento",
 				"level":"40%"
 			}
@@ -130,11 +139,23 @@
   },
   "portfolio":{
     "projects": [
+    {
+        "title":"Kreemo Web Solutions",
+        "category":"Created using WordPress- *on-going project*",
+        "image":"Kreemo.png",
+        "url":"https://kreemo.tech/"
+      },
       {
         "title":"Coffee Shop",
         "category":"Sample design - Coffee shop theme!",
         "image":"Coffee-shop.png",
         "url":"https://goofy-thompson-988f22.netlify.app/"
+      },
+      {
+        "title":"Axianta Financial Partners",
+        "category":"A landing page made out of WordPress with Elementor for layout",
+        "image":"Axianta.png",
+        "url":"https://unitedinsurancebroker.com/"
       }
     ]
   }

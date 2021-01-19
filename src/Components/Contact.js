@@ -96,13 +96,13 @@ class Contact extends Component {
 				<ul id="twitter">
 					<li>
 						<span>
-							Coffee shop sample designed has been added, Check it out!
+							Additional work portfolio added! Axianta Financial Partners is a US based company of insurance broker.
 						</span>
-						<b><a href=".">July 27, 2020</a></b>
+						<b><a href=".">December 27, 2020</a></b>
 					</li>
 					<li>
 						<span>
-							This website is still under development, work portfolio and testimonials will be added soon!
+							This website is still under development, testimonials will be added soon!
 							<br></br>
 								<i style={redText}>*Email feature still under development, kindly contact me throught my email or phone number</i>
 							</span>
